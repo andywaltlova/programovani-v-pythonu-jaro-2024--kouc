@@ -1,0 +1,13 @@
+2024-04-17 18:51:46,420 - DEBUG - cviceni-logovani.py - 37 - hraj - Začátek hry
+2024-04-17 18:51:50,162 - INFO - cviceni-logovani.py - 33 - get_sazka - Vsadil si 100 Kč na lichy
+2024-04-17 18:51:50,162 - INFO - cviceni-logovani.py - 27 - soucet_hodu - Hody: 15
+2024-04-17 18:51:50,162 - INFO - cviceni-logovani.py - 47 - hraj - Vyhráno: 200
+2024-04-17 18:51:50,163 - DEBUG - cviceni-logovani.py - 51 - hraj - Konec hry
+2024-04-17 18:53:05,076 - INFO - cviceni-logovani.py - 33 - get_sazka - Vsadil si 100 Kč na sudy
+2024-04-17 18:53:05,076 - INFO - cviceni-logovani.py - 27 - soucet_hodu - Hody: 10
+2024-04-17 18:53:05,076 - INFO - cviceni-logovani.py - 47 - hraj - Vyhráno: 200
+2024-04-17 18:53:20,530 - DEBUG - cviceni-logovani.py - 37 - hraj - Začátek hry
+2024-04-17 18:53:24,813 - INFO - cviceni-logovani.py - 33 - get_sazka - Vsadil si 100 Kč na sudy
+2024-04-17 18:53:24,813 - INFO - cviceni-logovani.py - 27 - soucet_hodu - Hody: 10
+2024-04-17 18:53:24,814 - INFO - cviceni-logovani.py - 47 - hraj - Vyhráno: 200
+2024-04-17 18:53:24,814 - DEBUG - cviceni-logovani.py - 51 - hraj - Konec hry
